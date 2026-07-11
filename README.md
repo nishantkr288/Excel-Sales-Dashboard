@@ -119,7 +119,7 @@ Screenshot 2026-07-11 144045.png
 
 📊 **Excel Dashboard File**
 
-[Sales Performance Dashboard](Sales-Performance-Dashboard.xlsm)
+[Sales Performance Dashboard]([Sales-Performance-Dashboard.xlsm](https://github.com/nishantkr288/Excel-Sales-Dashboard/blob/main/project%201%20(data%20analyst).xlsm))
 
 > If you have not renamed the Excel file, replace it with:
 
