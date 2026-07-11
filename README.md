@@ -129,6 +129,19 @@ project 1 (data analyst).xlsm
 
 ---
 
+# 🎥 Project Demo Video
+
+Watch the complete dashboard walkthrough and interactive demo on LinkedIn.
+
+▶️ **LinkedIn Demo Video**
+
+https://www.linkedin.com/posts/nishantkr65_dataanalytics-excel-microsoftexcel-ugcPost-7479838167391436800-6hqX/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEWswa8BlcM0y0rJSfx6b1xKmleqWhy-oEY
+
+
+---
+
+---
+
 # 🚀 How to Use
 
 ### Step 1
