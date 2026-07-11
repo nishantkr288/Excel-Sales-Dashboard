@@ -1,4 +1,4 @@
-# 📊 Excel Sales Dashboard
+# 📊 Sales Dashboard Excel
 
 An interactive **Sales Performance Dashboard** built using **Microsoft Excel** to analyze sales data, monitor employee performance, and track business KPIs through dynamic charts, tables, and city-wise filtering.
 
