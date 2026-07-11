@@ -103,7 +103,9 @@ The dataset includes the following columns:
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](Dashboard-Preview.png)
+
+<img width="1918" height="700" alt="Screenshot 2026-07-11 144045" src="https://github.com/user-attachments/assets/1cdd1b4a-7d64-4676-acfd-23542da3655f" />
+
 
 > If you have not renamed the image, replace the file name above with:
 
